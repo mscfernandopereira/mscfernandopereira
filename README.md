@@ -1,7 +1,7 @@
 
 ## 👩🏻‍💻 Fernando Pereira, M.Sc.
 
-Sou **Mestre em Administração pela Universidade Federal Fluminense (UFF)**. Atuo como Analista de Políticas Públicas na Prefeitura Municipal de Maricá e professor no curso de Engenharia de Software da Universidade Vassouras e Análise de Sistemas (Campus Maricá-RJ).
+Sou **Mestre em Administração pela Universidade Federal Fluminense (UFF)**. Atuo como Analista de Políticas Públicas na Prefeitura Municipal de Maricá e professor no curso de Engenharia de Software e Análise de Sistemas da Universidade Vassouras (Campus Maricá-RJ).
 
 Possui experiência docente no Centro Metodista Bennett, CEPERJ / Escola de Gestão e Pólíticas Públicas, Grupo Lusófona Faculdade Paraíso (FAP) e SENAC-Rio. Desenvolve pesquisas e projetos nas áreas de Logística, Administração da Produção e Administração Ambiental, com enfoque em Pesquisa Operacional, Estatística e Simulação. Seu trabalho integra gestão pública e políticas públicas, especialmente em análise de desempenho, modelagem e aplicação de ferramentas quantitativas para apoio à decisão. Combina experiência em gestão municipal e ensino superior, com atuação em pesquisa, consultoria e formação profissional.
 
