@@ -19,6 +19,6 @@ Tenho experiÃªncia docente no Centro Metodista Bennett, CEPERJ / Escola de GestÃ
        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href="http://lattes.cnpq.br/8205121812658049" target="_blank">
-      <img src="https://img.shields.io/badge/-Lattes-0e006d?style=for-the-badge&logo=linkedinlattes&logoColor=white" target="_blank"/>
+      <img src="https://img.shields.io/badge/Curriculo%20Lattes-0e006d?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"/>
     </a>
 </p>
