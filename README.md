@@ -9,9 +9,16 @@ Tenho experiÃªncia docente no Centro Metodista Bennett, CEPERJ / Escola de GestÃ
 
 
 <p align="left">
+    <a href="mailto:msc.fernandopereira0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
     <a href="https://www.linkedin.com/in/fernando-pereira-fsp/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
     </a>
     <a href="https://instagram.com/fernandopereira_adm" target="_blank">
-       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a href="http://lattes.cnpq.br/8205121812658049" target="_blank">
+      <img src="https://img.shields.io/badge/-Lattes-0e006d?style=for-the-badge&logo=linkedinlattes&logoColor=white" target="_blank"/>
+    </a>
 </p>
